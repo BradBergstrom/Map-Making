@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.8" tiledversion="1.8.4" name="Overworld" tilewidth="32" tileheight="32" tilecount="240" columns="15">
- <image source="../../../Code/Senior Project/Sprites/Fiverr/Steaf101 tiles/overworld tiles/Overworld.png" width="480" height="512"/>
+ <image source="../../../tiles/Overworld.png" width="480" height="512"/>
  <tile id="0">
   <properties>
    <property name="derp" value="90"/>
